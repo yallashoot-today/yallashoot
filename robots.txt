@@ -1,0 +1,11 @@
+# Robots.txt for يلا شوت
+# Google Search Console & Googlebot compliant
+
+User-agent: *
+Allow: /
+Allow: /assets/css/
+Allow: /assets/js/
+Disallow: /*?*
+
+# Sitemaps
+Sitemap: https://yallashoot-6s3.pages.dev/sitemap.xml
